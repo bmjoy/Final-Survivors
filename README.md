@@ -22,11 +22,11 @@ A small game made in Unity, attempting to capture the essence of a "bullet hell"
 ## Credits
 This game was developed as part of a team of 5 programmers
 
-- [EpsilonsQc](https://github.com/EpsilonsQc)
-- [n-larralde](https://github.com/n-larralde)
-- [BillJackson1](https://github.com/BillJackson1)
-- [Mariewot](https://github.com/Mariewot)
-- [Lornhelio](https://github.com/Lornhelio)
+- [EpsilonsQc](https://github.com/EpsilonsQc) - Alexandre Perreault
+- [n-larralde](https://github.com/n-larralde) - Nicolas Larralde
+- [BillJackson1](https://github.com/BillJackson1) - Jacques Loiselle
+- [Mariewot](https://github.com/Mariewot) - Marie-Pier Boucher
+- [Lornhelio](https://github.com/Lornhelio) - Tommy Aubin
 
 ## Legal
 The source code in this repository is for non-commercial use only. If you use the source code you may not charge others for access to it or any derivative work thereof. All the assets (textures, sounds, etc.) were found on the internet (either purchased from the Asset Store or from other sources).
