@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7550252423323294063
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7550252423323294060}
+  - component: {fileID: 7550252423323294050}
+  - component: {fileID: 7550252423323294061}
+  - component: {fileID: 1563310203675778054}
+  m_Layer: 0
+  m_Name: SpawnManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7550252423323294060
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7550252423323294063}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7550252423323294050
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7550252423323294063}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a7490d48a57350142a508d3d7322bdca, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  maxEnemy1Size: 50
+  maxEnemy2Size: 50
+  enemyAmmoPoolSize: 100
+  projectilePoolSize: 1000
+  enemy1Prefab: {fileID: 3113881174934184364, guid: 9a43c7908b8d773468e70989e566825b, type: 3}
+  enemy2Prefab: {fileID: 2230516670665227617, guid: 22057f5727ffc0f40b925ed968947f62, type: 3}
+  masterProjectilePrefab: {fileID: 8789831719442150978, guid: 71741e6b8190a684eb41dc67f1826a5f, type: 3}
+  enemyBulletPrefab: {fileID: 5075333173306300799, guid: 1133a9b05e1410846b8132ebfc989411, type: 3}
+--- !u!114 &7550252423323294061
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7550252423323294063}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: da112464b21401e4e89cebc807fb789b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  maxSpawnDistance: 50
+  enemy1MinSpawnRate: 1
+  enemy1MaxSpawnRate: 3
+  enemy2MinSpawnRate: 1
+  enemy2MaxSpawnRate: 3
+--- !u!114 &1563310203675778054
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7550252423323294063}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 42ce53e359eaf53489edcf1d42070f02, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  shieldCratePrefab: {fileID: 7746969419455364364, guid: 6aba69472f2058a4cbfe2e302903ffed, type: 3}
+  shieldSpawnRate: 5
+  ballisticCratePrefab: {fileID: 2937318159937705934, guid: d8ce8b5e5bdeb094b8dc9f1799d54c31, type: 3}
+  ballisticSpawnRate: 5
+  maxSpawningDistance: 20
+  player: {fileID: 0}
