@@ -23,9 +23,9 @@ A small game made in Unity, attempting to capture the essence of a "bullet hell"
 This game was developed as part of a team of 5 programmers
 
 - [EpsilonsQc](https://github.com/EpsilonsQc) - Alexandre Perreault
-- [n-larralde](https://github.com/n-larralde) - Nicolas Larralde
 - [BillJackson1](https://github.com/BillJackson1) - Jacques Loiselle
 - [Mariewot](https://github.com/Mariewot) - Marie-Pier Boucher
+- [n-larralde](https://github.com/n-larralde) - Nicolas Larralde
 - [Lornhelio](https://github.com/Lornhelio) - Tommy Aubin
 
 ## Legal
