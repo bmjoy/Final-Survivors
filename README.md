@@ -5,7 +5,7 @@
 ---
 
 ## Introduction
-A small game made in Unity, attempting to capture the essence of a "bullet hell" top-down shooter in a dystopian fururistic universe and developed in the midst of my study in video game programming at College of Bois-de-Boulogne. This is my final project for the "Making a video game" course (session 5 of 5).
+A small game made in Unity, attempting to capture the essence of a "bullet hell" twin-stick shooter in a dystopian fururistic universe and developed in the midst of my study in video game programming at College of Bois-de-Boulogne. This is my final project for the "Making a video game" course (session 5 of 5).
 
 ## F.A.Q.
 
