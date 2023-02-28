@@ -1,5 +1,5 @@
 <h1 align="center">Final Survivors</h1>
-<p align="center"><img width="900" src="https://user-images.githubusercontent.com/11299907/221451090-a7b17bb5-f694-4b54-a122-980bf8947eb0.png"></p>
+<p align="center"><img width="900" src="https://user-images.githubusercontent.com/11299907/221772445-96a94619-5053-4720-93bb-cfa2c6a1467c.png"></p>
 <p align="center"><img width="900" src="https://user-images.githubusercontent.com/11299907/221451094-99e5e7f7-6f52-4199-b11f-99c846ae9dca.png"></p>
 
 ---
