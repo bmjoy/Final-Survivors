@@ -14,7 +14,7 @@ This is a game made in Unity, attempting to capture the essence of a "bullet hel
 
 > What is the development period?
 - From January 3rd 2023 to March 24th 2023 [80 days period]
-- NOTE : This game is currently in development
+- NOTE : Currently in development
 
 > What is "Beyond Prophecy" (company name in the project setting and on various GUI menus)?
 - This is simply the name of my organization on Unity Gaming Services, and does not represent any actual company whatsoever
