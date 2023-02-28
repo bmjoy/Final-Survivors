@@ -5,7 +5,7 @@
 ---
 
 ## Introduction
-This is a game made in Unity, attempting to capture the essence of a "bullet hell" twin-stick shooter in a dystopian futuristic universe and developed in the midst of my study in video game programming at College of Bois-de-Boulogne. This is my final project for the "Making a video game" course (session 5 of 5).
+This is a game made in Unity, attempting to capture the essence of a "bullet hell" twin-stick shooter in a dystopian futuristic universe. It was developed in the midst of my study in video game programming at College of Bois-de-Boulogne. This is my final project for the "Making a video game" course (session 5 of 5).
 
 ## F.A.Q.
 
