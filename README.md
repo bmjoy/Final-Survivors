@@ -19,6 +19,33 @@ This is a game made in Unity, attempting to capture the essence of a "bullet hel
 > What is "Beyond Prophecy" (company name in the project setting and on various GUI menus)?
 - This is simply the name of my organization on Unity Gaming Services, and does not represent any actual company whatsoever
 
+## Controls
+#### UI
+- ESC : show/hide pause menu [in-game only]
+- Space bar : skip intro [while intro is fading away only]
+- 1 : previous background video [main menu only]
+- 2 : next background video [main menu only]
+
+#### Player movements
+- W, A, S, D : move
+- Space bar : dash
+
+#### Player actions
+- Left Mouse Button : shoot
+- Right Mouse Button : melee attack
+- Q : time warp
+- E : swap weapon
+- TAB : show/hide mouse cursor [in-game only]
+- T : play the "tea bag" emote animation
+
+#### Audio control
+- Up arrow : play
+- Down arrow : pause
+- Left arrow : previous track
+- Right arrow : next track
+- Numpad + : volume up
+- Numpad - : volume down
+
 ## Credits
 This game was developed as part of a team of 5 programmers
 
